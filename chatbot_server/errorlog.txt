@@ -1,0 +1,303 @@
+Exception on /web_ui [GET]
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 39, in bot
+    response = obj.run(Message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 162, in run
+    response = self.__get_response(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 103, in __get_response
+    self.tag = self.__get_tag(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 57, in __get_tag
+    self.tokenize_sentence = tokenize(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 18, in tokenize
+    return nltk.word_tokenize(sentence)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 130, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 107, in sent_tokenize
+    tokenizer = load("tokenizers/punkt/{0}.pickle".format(language))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 875, in _open
+    return find(path_, path + [""]).open()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/english.pickle[0m
+
+  Searched in:
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile/nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\share\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\lib\\nltk_data'
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - ''
+**********************************************************************
+
+Exception on /web_ui [GET]
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 39, in bot
+    response = obj.run(Message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 162, in run
+    response = self.__get_response(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 103, in __get_response
+    self.tag = self.__get_tag(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 57, in __get_tag
+    self.tokenize_sentence = tokenize(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 18, in tokenize
+    return nltk.word_tokenize(sentence)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 130, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 107, in sent_tokenize
+    tokenizer = load("tokenizers/punkt/{0}.pickle".format(language))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 875, in _open
+    return find(path_, path + [""]).open()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/english.pickle[0m
+
+  Searched in:
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile/nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\share\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\lib\\nltk_data'
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - ''
+**********************************************************************
+
+Exception on /web_ui [GET]
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 39, in bot
+    response = obj.run(Message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 162, in run
+    response = self.__get_response(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 103, in __get_response
+    self.tag = self.__get_tag(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 57, in __get_tag
+    self.tokenize_sentence = tokenize(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 18, in tokenize
+    # reducing inflection in words to their root forms such as mapping a group of words to the same stem even if the stem itself is not a valid word in the Language
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 130, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 107, in sent_tokenize
+    tokenizer = load("tokenizers/punkt/{0}.pickle".format(language))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 875, in _open
+    return find(path_, path + [""]).open()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/english.pickle[0m
+
+  Searched in:
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile/nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\share\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\lib\\nltk_data'
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - ''
+**********************************************************************
+
+Exception on /web_ui [GET]
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 39, in bot
+    response = obj.run(Message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 162, in run
+    response = self.__get_response(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 103, in __get_response
+    self.tag = self.__get_tag(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 57, in __get_tag
+    self.tokenize_sentence = tokenize(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 18, in tokenize
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 130, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\tokenize\__init__.py", line 107, in sent_tokenize
+    tokenizer = load("tokenizers/punkt/{0}.pickle".format(language))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 875, in _open
+    return find(path_, path + [""]).open()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/english.pickle[0m
+
+  Searched in:
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile/nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\share\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\lib\\nltk_data'
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - ''
+**********************************************************************
+
+Exception on /web_ui [GET]
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\corpus\util.py", line 83, in __load
+    root = nltk.data.find("{}/{}".format(self.subdir, zip_name))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mwordnet[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('wordnet')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mcorpora/wordnet.zip/wordnet/[0m
+
+  Searched in:
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile/nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\share\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\lib\\nltk_data'
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 39, in bot
+    response = obj.run(Message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 162, in run
+    response = self.__get_response(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 103, in __get_response
+    self.tag = self.__get_tag(message)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 59, in __get_tag
+    self.x = bag_of_words(self.tokenize_sentence, self.all_words)
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 25, in bag_of_words
+    tokenized_sentence = [stem(w) for w in tokenized_sentence]
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 25, in <listcomp>
+    tokenized_sentence = [stem(w) for w in tokenized_sentence]
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 21, in stem
+    return lemmatizer.lemmatize(word.lower())
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\stem\wordnet.py", line 38, in lemmatize
+    lemmas = wordnet._morphy(word, pos)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\corpus\util.py", line 120, in __getattr__
+    self.__load()
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\corpus\util.py", line 85, in __load
+    raise e
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\corpus\util.py", line 80, in __load
+    root = nltk.data.find("{}/{}".format(self.subdir, self.__name))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mwordnet[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('wordnet')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mcorpora/wordnet[0m
+
+  Searched in:
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile/nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\share\\nltk_data'
+    - 'c:\\inetpub\\wwwroot\\chatbot\\env_chatbot\\lib\\nltk_data'
+    - 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+

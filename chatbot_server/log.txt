@@ -1,0 +1,713 @@
+2021-08-19 01:46:18.035949: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:46:18.043957: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:46:20.314850: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:46:20.324825: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:46:20.332803: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:46:20.350754: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:46:20.357736: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:46:20.671113: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:46:20.705097: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:51:33.075878: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2021-08-19 01:56:18.924122: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:56:18.928111: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:56:21.202027: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:56:21.211002: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:56:21.214994: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:56:21.231948: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:56:21.232944: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:56:21.243915: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:56:21.381546: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 01:56:21.395507: wfastcgi.py 3.0.0 initialized
+2021-08-19 01:59:08.120121: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 01:59:08.120121: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 01:59:08.120121: Running on_exit tasks
+2021-08-19 01:59:08.120121: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 01:59:08.120121: Running on_exit tasks
+2021-08-19 02:00:04.837517: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:00:04.843502: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:00:38.502803: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:00:38.512742: Running on_exit tasks
+2021-08-19 02:01:17.130941: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:01:17.135930: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:02:13.395599: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:02:13.399564: Running on_exit tasks
+2021-08-19 02:03:00.679117: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:00.686102: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:02.924115: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:02.935084: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:02.942065: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:02.951041: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:02.951041: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:02.969989: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:03.101638: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:03.121584: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:18.620156: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:03:18.620156: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:03:18.624081: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:03:18.636047: Running on_exit tasks
+2021-08-19 02:03:18.636047: Running on_exit tasks
+config))$
+2021-08-19 02:03:18.636047: Running on_exit tasks
+2021-08-19 02:03:18.648016: Running on_exit tasks
+2021-08-19 02:03:22.108394: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:22.115377: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:24.083111: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:24.091089: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:24.130981: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:24.137962: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:24.137962: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:03:24.147938: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:03:30.588969: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:03:30.588969: Running on_exit tasks
+2021-08-19 02:06:50.218845: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:06:50.224834: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:06:52.461846: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:06:52.470822: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:06:52.491764: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:06:52.500741: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:06:52.557588: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:06:52.578532: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:14:40.836005: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:14:40.842986: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:14:43.097953: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:14:43.105932: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:14:43.106930: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:14:43.112911: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:14:43.165770: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:14:43.176740: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:14:43.270489: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:14:43.284452: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:24:20.411733: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:24:20.417692: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:24:22.695595: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:24:22.704570: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:24:22.720527: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:24:22.727508: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:24:22.773385: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:24:22.785352: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:24:22.883090: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:24:22.908024: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:30:05.110947: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:30:05.110947: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:30:05.115897: Running on_exit tasks
+2021-08-19 02:30:05.116891: Running on_exit tasks
+2021-08-19 02:30:09.860490: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 25, in <module>
+    logger.setLevel('debug')
+  File "C:\Python\lib\logging\__init__.py", line 1421, in setLevel
+    self.level = _checkLevel(level)
+  File "C:\Python\lib\logging\__init__.py", line 198, in _checkLevel
+    raise ValueError("Unknown level: %r" % level)
+ValueError: Unknown level: 'debug'
+
+
+StdOut: 
+
+StdErr: 
+2021-08-19 02:30:09.871465: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 25, in <module>
+    logger.setLevel('debug')
+  File "C:\Python\lib\logging\__init__.py", line 1421, in setLevel
+    self.level = _checkLevel(level)
+  File "C:\Python\lib\logging\__init__.py", line 198, in _checkLevel
+    raise ValueError("Unknown level: %r" % level)
+ValueError: Unknown level: 'debug'
+2021-08-19 02:30:09.882434: Running on_exit tasks
+2021-08-19 02:30:09.886427: wfastcgi.py 3.0.0 closed
+2021-08-19 02:30:58.322819: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 25, in <module>
+    logger.setLevel(logging.debug)
+  File "C:\Python\lib\logging\__init__.py", line 1421, in setLevel
+    self.level = _checkLevel(level)
+  File "C:\Python\lib\logging\__init__.py", line 201, in _checkLevel
+    raise TypeError("Level not an integer or a valid string: %r" % level)
+TypeError: Level not an integer or a valid string: <function debug at 0x000002455F254B80>
+
+
+StdOut: 
+
+StdErr: 
+2021-08-19 02:30:58.332797: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 25, in <module>
+    logger.setLevel(logging.debug)
+  File "C:\Python\lib\logging\__init__.py", line 1421, in setLevel
+    self.level = _checkLevel(level)
+  File "C:\Python\lib\logging\__init__.py", line 201, in _checkLevel
+    raise TypeError("Level not an integer or a valid string: %r" % level)
+TypeError: Level not an integer or a valid string: <function debug at 0x000002455F254B80>
+2021-08-19 02:30:58.339777: Running on_exit tasks
+2021-08-19 02:30:58.349776: wfastcgi.py 3.0.0 closed
+2021-08-19 02:31:40.012669: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:31:40.018658: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:31:42.251682: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:31:42.259660: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:31:42.270629: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:31:42.279606: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:31:42.287584: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:31:42.565838: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:31:42.571823: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:32:30.178659: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:32:30.178659: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:32:30.178659: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:32:30.185654: Running on_exit tasks
+2021-08-19 02:32:30.185654: Running on_exit tasks
+2021-08-19 02:32:34.442790: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:32:34.448778: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:32:36.691775: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:32:36.698756: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:32:36.744634: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:32:36.752613: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:32:36.760591: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:32:36.762585: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:32:36.765576: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:32:36.794498: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:33:09.823733: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:33:09.823733: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:33:09.839245: Running on_exit tasks
+2021-08-19 02:33:09.839245: Running on_exit tasks
+2021-08-19 02:34:31.060071: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:34:31.066055: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:34:33.334983: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:34:33.345953: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:34:33.416762: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:34:33.427733: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:34:33.587308: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:34:33.596282: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:35:19.871019: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:35:19.871019: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:35:19.876006: Running on_exit tasks
+2021-08-19 02:35:19.876006: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:35:19.882987: Running on_exit tasks
+2021-08-19 02:48:21.016030: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:48:21.022988: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:48:23.287924: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:48:23.296899: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:48:23.304878: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:48:23.305876: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:48:23.312857: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:48:23.323827: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:48:23.545234: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 02:48:23.551218: wfastcgi.py 3.0.0 initialized
+2021-08-19 02:56:02.406473: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 02:56:02.411930: Running on_exit tasks
+2021-08-19 03:08:41.132193: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 03:08:41.139175: wfastcgi.py 3.0.0 initialized
+2021-08-19 03:08:43.460962: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 03:08:43.468941: wfastcgi.py 3.0.0 initialized
+2021-08-19 03:08:43.489884: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 03:08:43.489884: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 03:08:43.496865: wfastcgi.py 3.0.0 initialized
+2021-08-19 03:08:43.511825: wfastcgi.py 3.0.0 initialized
+2021-08-19 03:08:43.737223: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 03:08:43.742209: wfastcgi.py 3.0.0 initialized
+2021-08-19 03:13:56.182314: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2021-08-19 11:24:15.642376: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 11:24:15.647361: wfastcgi.py 3.0.0 initialized
+2021-08-19 11:24:17.481288: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 11:24:17.488269: wfastcgi.py 3.0.0 initialized
+2021-08-19 11:24:17.493255: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 11:24:17.500237: wfastcgi.py 3.0.0 initialized
+2021-08-19 11:28:32.526287: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 11:28:32.526287: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 11:28:32.541915: Running on_exit tasks
+2021-08-19 11:28:53.462054: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 11:28:53.468026: wfastcgi.py 3.0.0 initialized
+2021-08-19 11:28:55.754906: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 11:28:55.761887: wfastcgi.py 3.0.0 initialized
+iles in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 11:28:55.769866: wfastcgi.py 3.0.0 initialized
+2021-08-19 11:28:55.883560: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 11:28:55.903508: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:12:12.706941: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:12:12.711900: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:12:15.068109: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:12:15.076088: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:12:15.123959: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:12:15.132935: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:12:15.211724: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:12:15.222694: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:12:15.232667: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:12:15.247628: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:17:27.834181: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2021-08-19 15:20:54.178559: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:20:54.185542: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:20:56.520488: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:20:56.532457: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:20:56.540434: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:20:56.547416: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:20:56.558387: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:20:56.743927: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:20:56.760882: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:27:27.523814: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:27:27.529801: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:27:30.131162: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:27:30.142132: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:27:30.164071: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:27:30.171053: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:27:30.200973: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:27:30.214936: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:27:30.249841: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:27:30.296715: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:31:58.213716: wfastcgi.py exiting because web.config has changed, matching .*((\.py)|(\.config))$
+2021-08-19 15:31:58.213716: wfastcgi.py exiting because web.config has changed, matching .*((\.py)|(\.config))$
+2021-08-19 15:31:58.213716: Running on_exit tasks
+2021-08-19 15:31:58.213716: Running on_exit tasks
+2021-08-19 15:32:18.363137: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "chatbot_server.service.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'chatbot_server'
+
+
+
+StdOut: 
+
+StdErr: 
+2021-08-19 15:32:18.375107: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "chatbot_server.service.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'chatbot_server'
+
+2021-08-19 15:32:18.384081: Running on_exit tasks
+2021-08-19 15:32:18.390063: wfastcgi.py 3.0.0 closed
+2021-08-19 15:40:21.736820: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:40:21.744798: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:40:24.062595: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:40:24.070574: wfastcgi.py 3.0.0 initialized
+iles in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:40:24.080547: wfastcgi.py 3.0.0 initialized
+2021-08-19 15:40:24.218179: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 15:40:24.255079: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:27:44.699014: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:27:44.706993: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:27:47.007834: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:27:47.017808: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:27:47.027781: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:27:47.027781: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:27:47.035759: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:27:47.036757: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:27:47.052713: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:30:18.012095: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 16:30:18.012095: wfastcgi.py exiting because service.py has changed, matching .*((\.py)|(\.config))$
+2021-08-19 16:30:18.039681: Running on_exit tasks
+2021-08-19 16:30:18.053642: Running on_exit tasks
+2021-08-19 16:30:18.053642: Running on_exit tasks
+2021-08-19 16:30:18.084560: Running on_exit tasks
+2021-08-19 16:30:30.650670: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:30:30.656652: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:50:01.671301: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:50:01.677260: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:50:03.997050: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:50:04.008021: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:50:04.017994: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:50:04.028965: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:50:04.085812: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:50:04.102766: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:50:04.134681: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 16:50:04.167592: wfastcgi.py 3.0.0 initialized
+2021-08-19 16:56:23.986026: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 17, in <module>
+    from chatbot_code import Bot
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\__init__.py", line 1, in <module>
+    from .main import Bot
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 17, in <module>
+    from .nltk_utils import bag_of_words, tokenize
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 13, in <module>
+    nltk.download('punkt')
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\downloader.py", line 779, in download
+    for msg in self.incr_download(info_or_id, download_dir, force):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\downloader.py", line 643, in incr_download
+    for msg in self._download_package(info, download_dir, force):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\downloader.py", line 701, in _download_package
+    os.mkdir(download_dir)
+PermissionError: [WinError 5] Access is denied: 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+
+
+StdOut: 
+
+StdErr: [nltk_data] Downloading package punkt to C:\WINDOWS\system32\config\sy
+[nltk_data]     stemprofile\AppData\Roaming\nltk_data...
+2021-08-19 16:56:23.993013: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\.\service.py", line 17, in <module>
+    from chatbot_code import Bot
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\__init__.py", line 1, in <module>
+    from .main import Bot
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\main.py", line 17, in <module>
+    from .nltk_utils import bag_of_words, tokenize
+  File "C:\inetpub\wwwroot\Chatbot\chatbot_server\..\chatbot_code\nltk_utils.py", line 13, in <module>
+    nltk.download('punkt')
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\downloader.py", line 779, in download
+    for msg in self.incr_download(info_or_id, download_dir, force):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\downloader.py", line 643, in incr_download
+    for msg in self._download_package(info, download_dir, force):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\nltk\downloader.py", line 701, in _download_package
+    os.mkdir(download_dir)
+PermissionError: [WinError 5] Access is denied: 'C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\nltk_data'
+2021-08-19 16:56:24.000989: Running on_exit tasks
+2021-08-19 16:56:24.006972: wfastcgi.py 3.0.0 closed
+2021-08-19 16:58:47.259164: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2021-08-19 16:58:47.259164: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2021-08-19 17:08:13.463272: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:08:13.473217: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:08:15.959565: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:08:15.976520: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:08:16.129111: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:08:16.139084: wfastcgi.py 3.0.0 initialized
+iles in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:08:16.150054: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:08:16.210892: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:08:16.223857: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:21:12.303107: wfastcgi.py exiting because web.config has changed, matching .*((\.py)|(\.config))$
+2021-08-19 17:21:12.313080: Running on_exit tasks
+2021-08-19 17:24:49.254527: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:24:49.260512: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:24:51.568338: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:24:51.578311: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:24:51.592274: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:24:51.603244: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:24:51.638151: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:24:51.648124: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:24:51.716939: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:24:51.729905: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:32:05.692341: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:32:05.699350: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:32:07.962778: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:32:07.972750: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:32:07.982723: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:32:08.031592: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:32:08.039570: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:53:25.343473: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:53:25.348464: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:53:27.295256: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:53:27.302235: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:53:27.302235: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:53:27.312208: wfastcgi.py 3.0.0 initialized
+2021-08-19 17:53:27.443854: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 17:53:27.451833: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:00:13.401634: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:00:13.407620: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:00:24.206765: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:00:24.214742: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:00:24.215740: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:00:24.249649: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:00:24.264608: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:00:24.282560: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:00:24.289541: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:17:11.047148: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:17:11.054130: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:17:11.061110: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:17:11.069088: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:18:04.517086: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:18:04.522077: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:28:06.014081: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:28:06.014081: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:33:45.039158: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:33:45.044145: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:43:08.034366: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:43:08.034366: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:50:16.206529: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:50:16.206529: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:50:17.369685: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:50:17.369685: wfastcgi.py 3.0.0 initialized
+2021-08-19 18:55:09.300048: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:55:09.306030: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 18:55:09.313012: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:07:15.922978: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:07:15.928959: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:07:16.582134: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:07:16.588120: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:14:35.269581: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:14:35.276559: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:14:35.842201: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:14:35.846193: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:26:38.427247: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:26:38.434232: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:26:38.926948: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:26:38.931935: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:28:02.282898: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:28:02.291874: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:28:02.338749: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:28:02.347724: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:28:02.385622: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:28:02.394598: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:39:27.546011: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:39:27.546011: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:46:37.608976: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:46:37.614960: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:53:40.920010: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:53:40.928986: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:53:41.273071: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:53:41.280045: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:53:41.713791: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:53:41.717786: wfastcgi.py 3.0.0 initialized
+2021-08-19 19:59:39.350767: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 19:59:39.350767: wfastcgi.py 3.0.0 initialized
+2021-08-19 20:06:22.319726: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 20:06:22.330698: wfastcgi.py 3.0.0 initialized
+2021-08-19 20:06:22.340671: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 20:06:22.350643: wfastcgi.py 3.0.0 initialized
+2021-08-19 20:06:22.412478: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 20:06:22.422450: wfastcgi.py 3.0.0 initialized
+2021-08-19 20:06:22.623912: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 20:06:22.631891: wfastcgi.py 3.0.0 initialized
+2021-08-19 20:06:22.804430: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 20:06:22.810412: wfastcgi.py 3.0.0 initialized
+2021-08-19 22:18:25.121193: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 22:18:25.121193: wfastcgi.py 3.0.0 initialized
+2021-08-19 22:18:25.370111: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 22:18:25.385739: wfastcgi.py 3.0.0 initialized
+2021-08-19 22:19:11.410701: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 22:19:11.426320: wfastcgi.py 3.0.0 initialized
+2021-08-19 22:50:04.932162: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 22:50:04.932162: wfastcgi.py 3.0.0 initialized
+2021-08-19 22:50:06.869541: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 22:50:06.870581: wfastcgi.py 3.0.0 initialized
+2021-08-19 22:50:06.886206: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 22:50:06.886206: wfastcgi.py 3.0.0 initialized
+2021-08-19 22:50:07.292219: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 22:50:07.310016: wfastcgi.py 3.0.0 initialized
+2021-08-19 23:08:37.320468: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 23:08:37.320468: wfastcgi.py 3.0.0 initialized
+2021-08-19 23:08:39.628725: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 23:08:39.628725: wfastcgi.py 3.0.0 initialized
+2021-08-19 23:08:39.659968: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 23:08:39.659968: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 23:08:39.675590: wfastcgi.py 3.0.0 initialized
+2021-08-19 23:08:39.691211: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-19 23:08:39.691211: wfastcgi.py 3.0.0 initialized
+2021-08-19 23:08:39.691211: wfastcgi.py 3.0.0 initialized
+2021-08-19 23:17:57.572249: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\chatbot\env_chatbot\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2021-08-20 01:51:31.428125: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 01:51:31.428125: wfastcgi.py 3.0.0 initialized
+2021-08-20 01:51:33.944052: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 01:51:33.959671: wfastcgi.py 3.0.0 initialized
+2021-08-20 01:51:33.959671: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 01:51:33.959671: wfastcgi.py 3.0.0 initialized
+2021-08-20 01:51:34.037778: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 01:51:34.053400: wfastcgi.py 3.0.0 initialized
+2021-08-20 01:51:34.162747: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 01:51:34.162747: wfastcgi.py 3.0.0 initialized
+2021-08-20 10:47:24.316829: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 10:47:24.332444: wfastcgi.py 3.0.0 initialized
+2021-08-20 18:46:18.723430: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 18:46:18.723430: wfastcgi.py 3.0.0 initialized
+2021-08-20 18:46:21.144513: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 18:46:21.144513: wfastcgi.py 3.0.0 initialized
+2021-08-20 18:46:21.222618: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 18:46:21.253862: wfastcgi.py 3.0.0 initialized
+2021-08-20 18:46:21.597530: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-20 18:46:21.613152: wfastcgi.py 3.0.0 initialized
+2021-08-24 10:50:23.285531: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-24 10:50:23.301170: wfastcgi.py 3.0.0 initialized
+2021-08-24 21:46:10.645476: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-24 21:46:10.645476: wfastcgi.py 3.0.0 initialized
+2021-08-24 23:48:38.178720: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-24 23:48:38.178720: wfastcgi.py 3.0.0 initialized
+2021-08-26 13:06:29.298405: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 13:06:29.298405: wfastcgi.py 3.0.0 initialized
+2021-08-26 13:06:33.024311: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 13:06:33.039934: wfastcgi.py 3.0.0 initialized
+2021-08-26 13:06:33.118038: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 13:06:33.118038: wfastcgi.py 3.0.0 initialized
+2021-08-26 13:06:33.321115: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 13:06:33.336736: wfastcgi.py 3.0.0 initialized
+iles in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 13:06:33.336736: wfastcgi.py 3.0.0 initialized
+2021-08-26 13:25:29.156505: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 13:25:29.156505: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:52.066101: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:52.066101: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:55.799556: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:55.815177: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:56.018254: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:56.033880: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:56.065119: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:56.080739: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:56.315059: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:56.330680: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:56.502515: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:56.502515: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:56.679226: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:56.688201: wfastcgi.py 3.0.0 initialized
+2021-08-26 14:52:56.846776: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-26 14:52:56.853759: wfastcgi.py 3.0.0 initialized
+2021-08-30 15:29:23.639946: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-30 15:29:23.655557: wfastcgi.py 3.0.0 initialized
+2021-08-30 15:29:23.655557: wfastcgi.py 3.0.0 initialized
+2021-08-31 11:35:36.466499: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-08-31 11:35:36.466499: wfastcgi.py 3.0.0 initialized
+2021-09-07 16:20:27.153719: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-07 16:20:27.169340: wfastcgi.py 3.0.0 initialized
+2021-09-07 16:20:42.710829: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-07 16:20:42.718808: wfastcgi.py 3.0.0 initialized
+2021-09-07 16:20:42.748727: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-07 16:20:42.759698: wfastcgi.py 3.0.0 initialized
+2021-09-07 16:20:42.985095: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-07 16:20:42.991081: wfastcgi.py 3.0.0 initialized
+2021-09-20 15:54:07.863125: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-20 15:54:07.863125: wfastcgi.py 3.0.0 initialized
+2021-09-20 15:54:09.360408: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-20 15:54:09.367393: wfastcgi.py 3.0.0 initialized
+2021-09-20 15:54:09.420269: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-20 15:54:09.420269: wfastcgi.py 3.0.0 initialized
+2021-09-20 17:31:35.635737: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-20 17:31:35.635737: wfastcgi.py 3.0.0 initialized
+2021-09-21 16:04:13.143035: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-21 16:04:13.143035: wfastcgi.py 3.0.0 initialized
+2021-09-21 16:33:49.574913: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-21 16:33:49.574913: wfastcgi.py 3.0.0 initialized
+2021-09-22 11:03:16.235553: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 11:03:16.251143: wfastcgi.py 3.0.0 initialized
+2021-09-22 16:56:34.347038: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 16:56:34.347038: wfastcgi.py 3.0.0 initialized
+2021-09-22 17:28:11.455247: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 17:28:11.460206: wfastcgi.py 3.0.0 initialized
+2021-09-22 17:37:16.328145: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 17:37:16.343762: wfastcgi.py 3.0.0 initialized
+2021-09-22 17:43:59.308264: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 17:43:59.312252: wfastcgi.py 3.0.0 initialized
+2021-09-22 17:50:00.429506: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 17:50:00.429506: wfastcgi.py 3.0.0 initialized
+2021-09-22 18:45:31.096030: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 18:45:31.096030: wfastcgi.py 3.0.0 initialized
+2021-09-22 23:24:49.996003: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-22 23:24:49.996003: wfastcgi.py 3.0.0 initialized
+2021-09-23 13:59:06.250298: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 13:59:06.250298: wfastcgi.py 3.0.0 initialized
+2021-09-23 14:50:09.652736: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 14:50:09.668360: wfastcgi.py 3.0.0 initialized
+2021-09-23 16:49:31.143687: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 16:49:31.143687: wfastcgi.py 3.0.0 initialized
+2021-09-23 18:17:12.100200: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 18:17:12.115799: wfastcgi.py 3.0.0 initialized
+2021-09-23 18:17:14.380340: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 18:17:14.395961: wfastcgi.py 3.0.0 initialized
+2021-09-23 18:17:14.395961: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 18:17:14.411583: wfastcgi.py 3.0.0 initialized
+2021-09-23 18:17:14.442825: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 18:17:14.464207: wfastcgi.py 3.0.0 initialized
+2021-09-23 18:17:14.524739: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 18:17:14.540361: wfastcgi.py 3.0.0 initialized
+2021-09-23 19:12:10.780197: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-23 19:12:10.795819: wfastcgi.py 3.0.0 initialized
+2021-09-27 14:02:56.413370: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-27 14:02:56.413370: wfastcgi.py 3.0.0 initialized
+2021-09-27 19:03:01.154272: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-27 19:03:01.154272: wfastcgi.py 3.0.0 initialized
+2021-09-28 13:45:06.839825: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-28 13:45:06.839825: wfastcgi.py 3.0.0 initialized
+2021-09-28 13:56:15.396613: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-28 13:56:15.396613: wfastcgi.py 3.0.0 initialized
+2021-09-28 15:32:13.630868: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-28 15:32:13.646488: wfastcgi.py 3.0.0 initialized
+2021-09-29 17:16:04.727530: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-29 17:16:04.743185: wfastcgi.py 3.0.0 initialized
+2021-09-29 17:16:06.523993: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-29 17:16:06.539613: wfastcgi.py 3.0.0 initialized
+2021-09-29 17:16:06.555234: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-09-29 17:16:06.555234: wfastcgi.py 3.0.0 initialized
+2021-10-06 15:11:25.251968: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 15:11:25.267558: wfastcgi.py 3.0.0 initialized
+2021-10-06 15:43:21.247369: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 15:43:21.247369: wfastcgi.py 3.0.0 initialized
+2021-10-06 15:43:23.653054: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 15:43:23.653054: wfastcgi.py 3.0.0 initialized
+2021-10-06 15:43:23.684297: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 15:43:23.684297: wfastcgi.py 3.0.0 initialized
+2021-10-06 15:43:23.731162: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 15:43:23.731162: wfastcgi.py 3.0.0 initialized
+2021-10-06 16:15:36.719783: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 16:15:36.719783: wfastcgi.py 3.0.0 initialized
+2021-10-06 18:02:49.411222: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 18:02:49.426843: wfastcgi.py 3.0.0 initialized
+2021-10-06 18:02:50.988979: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 18:02:50.988979: wfastcgi.py 3.0.0 initialized
+2021-10-06 18:02:51.051465: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Chatbot\chatbot_server\ are changed: .*((\.py)|(\.config))$
+2021-10-06 18:02:51.051465: wfastcgi.py 3.0.0 initialized

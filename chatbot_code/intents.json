@@ -1,0 +1,89 @@
+{
+	"intents": [
+		{
+			"tag": "username",
+			"patterns": ["Hey Alice, I am", "Hey, I am", "I am", "My name is", "is my name", "Nice to meet you. I am", "Glad to meet you. I am" ],
+			"responses": ["Oh! That's a nice name. Now let's explore the capabilities that the team has given me. You can ask me about", "That's a sweet name. Now let's explore the capabilities that the team has given me. You can ask me about", "That's a beautiful name by the way. Now let's explore the capabilities that the team has given me. You can ask me about"],
+			"dependent":[],
+			"buttons": ["Weather", "Time Zone", "Language Translation", "Inusrance Application Form"]
+		},
+		{
+			"tag": "weather",
+			"patterns": ["weather"],
+			"responses": ["Enter the City, State or Country", "Which location's weather do you wish to know"],
+			"dependent": [],
+			"buttons": []
+		},
+		{
+			"tag": "timezone",
+			"patterns": ["timezone", "time zone"],
+			"responses": ["Enter the City, State or Country", "Which location's Time Zone do you wish to know?"],
+			"dependent": [],
+			"buttons": []
+		},
+		{
+			"tag": "translation",
+			"patterns": ["Language Translation", "Translation"],
+			"responses": ["Which language you want to enter the Text"],
+			"dependent": [],
+			"buttons": []
+		},
+		{
+			"tag": "translation_text",
+			"patterns": [],
+			"responses": ["Enter the text you would like to convert"],
+			"dependent": [],
+			"buttons": []
+		},
+		{
+			"tag": "translation_to",
+			"patterns": [],
+			"responses": ["Which language do you wish to convert the text to?"],
+			"dependent": [],
+			"buttons": []
+		},
+		{
+			"tag": "options",
+			"patterns": [],
+			"responses": ["Would you like to see some more."],
+			"dependent": [],
+			"buttons": ["Yes", "No"]
+		},
+		{
+			"tag": "yes",
+			"patterns": ["yes"],
+			"responses": ["continue"],
+			"dependent": ["options"],
+			"buttons": []	
+		},
+		{
+			"tag": "no",
+			"patterns": ["no"],
+			"responses": ["Here are the options you can try"],
+			"dependent": ["options"],
+			"buttons": ["Weather", "Time Zone", "Language Translation", "Inusrance Application Form"]
+		},
+		{
+			"tag": "insurance",
+			"patterns": ["Inusrance Application Form", "insurance"],
+			"responses": ["Get me your Policy Number", "Enter the Policy Number", "Type in the Policy Number"],
+			"dependent": [],
+			"buttons": []
+		},
+		{
+			"tag": "Thanks",
+			"patterns": ["Thanks for your help", "Thank you", "appreciate your help", "Thanks", "Thanks for helping me"],
+			"responses": ["Any Time", "You're welcome"],
+			"dependent": [],
+			"buttons": []
+		},
+		{
+			"tag": "bye",
+			"patterns": ["bye", "goodbye", "good bye"],
+			"responses": ["Bye! Have a nice day", "Bye! Come back soon"],
+			"dependent": [],
+			"buttons": []
+		}
+
+	]
+}

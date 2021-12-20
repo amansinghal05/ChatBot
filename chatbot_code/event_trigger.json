@@ -1,0 +1,8 @@
+{
+  "weather": ["weatherapi", "options"],
+  "timezone": ["timezoneapi", "options"],
+  "translation": ["translation_text"],
+  "translation_text": ["translation_to"],
+  "translation_to": ["translationapi", "options"],
+  "insurance": ["pdfapi", "options"]
+}
